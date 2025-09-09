@@ -132,6 +132,7 @@ htmlcov/
 instance/
 .webassets-cache
 
+
 # Environment variables
 .env*
 
